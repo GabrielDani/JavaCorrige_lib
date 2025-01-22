@@ -62,7 +62,7 @@ Atribui uma nota a elementos individuais como atributos, métodos ou construtore
 
 #### Exemplo de Uso:
 ```java
-import com.gabrieldani.Nota;
+import com.javacorrige.Nota;
 
 public class ExemploGabarito {
     @Nota(value = 2.0)
@@ -91,7 +91,7 @@ Permite definir testes automatizados para métodos, especificando valores de ent
 
 #### Exemplo de Uso:
 ```java
-import com.gabrieldani.Testar;
+import com.javacorrige.Testar;
 
 public class ExemploGabarito {
     private int soma;
