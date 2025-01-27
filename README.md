@@ -65,15 +65,15 @@ Atribui uma nota a elementos individuais como atributos, métodos ou construtore
 import com.javacorrige.Nota;
 
 public class ExemploGabarito {
-    @Nota(value = 2.0)
+    @Nota(2.0)
     private String nome;
 
-    @Nota(value = 3.0)
+    @Nota(3.0)
     public String getNome() {
         return nome;
     }
 
-    @Nota(value = 1.0)
+    @Nota(1.0)
     public ExemploGabarito(String nome) {
         this.nome = nome;
     }
