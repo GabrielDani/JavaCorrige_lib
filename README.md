@@ -4,9 +4,7 @@ A **JavaCorrige** é uma biblioteca auxiliar para o software **JavaCorrige**, ut
 
 ## Instalação
 
-Adicione o arquivo JAR ao classpath do seu projeto:
-     - Instale o arquivo JAR manualmente na Tag deste repositório.
-     https://github.com/GabrielDani/JavaCorrige_lib/releases/tag/v1.0
+Adicione o arquivo JAR ao classpath do seu projeto: Instale o arquivo JAR manualmente na Tag deste repositório. https://github.com/GabrielDani/JavaCorrige_lib/releases/tag/v1.0
 
 ---
 
