@@ -5,11 +5,7 @@ A **JavaCorrige** é uma biblioteca auxiliar para o software **JavaCorrige**, ut
 ## Instalação
 
 Adicione o arquivo JAR ao classpath do seu projeto:
-   - No **Maven**, instale manualmente:
-     ```bash
-     mvn install:install-file -Dfile=javacorrige-1.0.jar -DgroupId=com.javacorrige -DartifactId=javacorrige -Dversion=1.0 -Dpackaging=jar
-     ```
-   - Ou importe diretamente no seu ambiente de desenvolvimento.
+     Instale o arquivo JAR manualmente na Tag deste repositório.
 
 ---
 
