@@ -125,15 +125,15 @@ public class ExemploGabarito {
     penalidade = 0.1
 )
 public class MeuGabarito {
-    @Nota(value = 2.0)
+    @Nota(2.0)
     private String atributo;
 
-    @Nota(value = 1.5)
+    @Nota(1.5)
     public MeuGabarito(String atributo) {
         this.atributo = atributo;
     }
 
-    @Nota(value = 3.0)
+    @Nota(3.0)
     public String getAtributo() {
         return atributo;
     }
